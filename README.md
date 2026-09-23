@@ -2,6 +2,6 @@
 
 - Lead Dev @ [Airteam](https://airteam.com.au)
 - [Email](mailto:james@jameswyse.net)
-- [Website](https://jameswyse.net)
+- [Website](https://wyse.dev)
 - [LinkedIn](https://linkedin.com/in/jwyse)
 - [X](https://x.com/jameswyse)
