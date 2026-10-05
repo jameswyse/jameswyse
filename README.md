@@ -1,7 +1,14 @@
-# 👋 Hi, I'm James Wyse
+# 👋 Hi, I'm James!
 
-- Lead Dev @ [Airteam](https://airteam.com.au)
-- [Email](mailto:james@jameswyse.net)
+I like making things, fixing things, and figuring out how things work.
+
+My personal projects tend to involve code, homelabs, old computers and game consoles, electronics or 3D printing.
+
+I'm based in 🇦🇺 Brisbane, Australia, and work at @airteamaus, where we build custom software for organisations with complex needs.
+
+## Get in touch
+
 - [Website](https://wyse.dev)
+- [Email](mailto:james@jameswyse.net)
 - [LinkedIn](https://linkedin.com/in/jwyse)
-- [X](https://x.com/jameswyse)
+- [X / Twitter](https://x.com/jameswyse)
